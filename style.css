@@ -1,0 +1,25 @@
+*{margin:0;
+color:black;}
+
+body{
+    
+}
+
+.header{
+    display:flex;
+    justify-content :center;
+    align-items: cener;
+    margin:10px;
+    gap:50px;
+
+}
+.buttons
+ {
+
+    color : rgb{206,166,189}
+    display:flex;
+    flex-grow:1;
+    justify-content:space-between;
+    max-width:320px;
+ }
+ 
